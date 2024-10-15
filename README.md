@@ -2,12 +2,18 @@
 A script to automate NMAP scans with customizable options.
 
  =============================================================================
+ 
   NMAP Automation Script
- =============================================================================
+=============================================================================
+ 
   Description : A script to automate NMAP scans with customizable options.
+
   Author      : [Lupoxoox]
+
   Version     : 1.0
+
   Created     : [1-10-24]
+
   Last Update : [15-10-24]
  
  =============================================================================
